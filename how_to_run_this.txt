@@ -1,0 +1,9 @@
+1. extract this zip (if you're reading this, already done)
+2. open cmd
+3. go to nodejs-weatherapp-master using cd /nodejs-weatherapp-master
+4. run npm install (only works if node.js is installed. if not do install)
+5. run node server.js
+6. once you see this on cmd (Example app listening on port 3000!)
+7. open http://localhost:3000/   in browser
+
+-------------------- bbye ---------------
